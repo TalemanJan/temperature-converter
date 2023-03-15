@@ -82,6 +82,9 @@ body{
   .button:hover{
     color: #000000; 
   }
+  #inp-2{
+background-color: #000;
+  }
   #num1{
     width: 172px;
     height: 20px;
